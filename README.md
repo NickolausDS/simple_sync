@@ -11,7 +11,7 @@ This examples require only the `globus_automate_client` and `watchdog` packages.
 ## Deploy flow
 Two flows are provided for this examples, the first executes a `folder transfer` and `set permissions` while the second also `publishes` metadata in a globus portal. 
 
-Both scripts can be executes to register a new flow with globus services:
+Both scripts can be executed to register a new flow with globus services:
 
     ./def_simple_sync.py
     ./def_simple_sync_publish.py
